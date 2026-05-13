@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "adoaler-forge-team-os-plugin",
+  "version": "0.1.0",
+  "description": "Codex plugin bundle for the Adoaler Forge Engineering Team OS.",
+  "type": "module",
+  "scripts": {
+    "build": "npm --prefix mcp/forge-team-server run build",
+    "dev": "npm --prefix mcp/forge-team-server run dev",
+    "test": "npm --prefix mcp/forge-team-server run test",
+    "lint": "npm --prefix mcp/forge-team-server run lint",
+    "typecheck": "npm --prefix mcp/forge-team-server run typecheck"
+  }
+}

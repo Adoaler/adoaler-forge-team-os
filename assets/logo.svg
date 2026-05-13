@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="160" viewBox="0 0 512 160" role="img" aria-label="Adoaler Forge Team OS logo">
+  <rect width="512" height="160" rx="28" fill="#0E3F36"/>
+  <circle cx="76" cy="80" r="46" fill="none" stroke="#50D890" stroke-width="8"/>
+  <path d="M43 91h66v12H43zM51 69l25-18 25 18v14H89v-8L76 65 63 75v8H51z" fill="#C9F2DE"/>
+  <text x="145" y="75" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#F4FFF9">Adoaler Forge</text>
+  <text x="145" y="112" font-family="Arial, sans-serif" font-size="26" fill="#C9F2DE">Team OS</text>
+</svg>

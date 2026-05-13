@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Agent"
+  short_description: "Turn product ideas into requirements, non-goals, acceptance criteria, and scope control."
+  default_prompt: "Use Product Agent inside Adoaler Forge Team OS."

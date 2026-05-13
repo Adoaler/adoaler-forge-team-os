@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adoaler Team OS"
+  short_description: "Operate Codex as an engineering organization with Project Brain, LTM, task graph, critics, gates, repair mode, and release governance."
+  default_prompt: "Use Adoaler Team OS inside Adoaler Forge Team OS."

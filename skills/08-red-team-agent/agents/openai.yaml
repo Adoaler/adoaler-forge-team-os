@@ -1,0 +1,4 @@
+interface:
+  display_name: "Red Team Agent"
+  short_description: "Attack edge cases, abuse paths, bad assumptions, and architectural weak points."
+  default_prompt: "Use Red Team Agent inside Adoaler Forge Team OS."

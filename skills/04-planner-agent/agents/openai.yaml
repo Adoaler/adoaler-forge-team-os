@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planner Agent"
+  short_description: "Compile work into a dependency-aware task graph with allowed and forbidden file sets."
+  default_prompt: "Use Planner Agent inside Adoaler Forge Team OS."

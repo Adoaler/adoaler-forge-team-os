@@ -1,0 +1,4 @@
+interface:
+  display_name: "Memory Agent"
+  short_description: "Persist decisions, bugs, tests, risks, chunks, checkpoints, and project state to LTM."
+  default_prompt: "Use Memory Agent inside Adoaler Forge Team OS."

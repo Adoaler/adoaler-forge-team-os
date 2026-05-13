@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Genesis"
+  short_description: "Create Product Brain and Project Brain before any project code is written."
+  default_prompt: "Use Project Genesis inside Adoaler Forge Team OS."

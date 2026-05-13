@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architect Agent"
+  short_description: "Define modules, contracts, architecture rules, and structural approvals."
+  default_prompt: "Use Architect Agent inside Adoaler Forge Team OS."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implementation Agent"
+  short_description: "Implement only approved tasks within allowed files and without placeholders."
+  default_prompt: "Use Implementation Agent inside Adoaler Forge Team OS."

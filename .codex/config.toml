@@ -1,0 +1,9 @@
+[features]
+forge_team_os = true
+forge_team_hooks = true
+
+[forge_team_os]
+mcp_server = "adoaler-forge-team-os"
+data_dir = ".forge-team"
+verified_hook_surface = "PostToolUse"
+repair_only_state = "REPAIR_ONLY"

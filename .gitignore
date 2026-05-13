@@ -1,0 +1,7 @@
+node_modules/
+mcp/forge-team-server/node_modules/
+.forge-team/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+npm-debug.log*

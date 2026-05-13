@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Agent"
+  short_description: "Verify release readiness, checkpoints, release notes, and final gates."
+  default_prompt: "Use Release Agent inside Adoaler Forge Team OS."

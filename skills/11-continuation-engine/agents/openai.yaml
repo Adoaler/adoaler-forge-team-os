@@ -1,0 +1,4 @@
+interface:
+  display_name: "Continuation Engine"
+  short_description: "Resume large files and modules safely from saved hashes and safe boundaries."
+  default_prompt: "Use Continuation Engine inside Adoaler Forge Team OS."

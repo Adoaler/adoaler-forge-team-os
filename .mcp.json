@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "adoaler-forge-team-os": {
+      "command": "node",
+      "args": [
+        "./mcp/forge-team-server/dist/index.js"
+      ],
+      "env": {
+        "FORGE_TEAM_DATA_DIR": ".forge-team"
+      }
+    }
+  }
+}

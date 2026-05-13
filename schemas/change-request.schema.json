@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://adoaler.local/schemas/change-request.schema.json",
+  "title": "change-request",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": "string"
+    }
+  }
+}

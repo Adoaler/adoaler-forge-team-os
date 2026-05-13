@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Agent"
+  short_description: "Create meaningful tests and run quality gates against real behavior."
+  default_prompt: "Use QA Agent inside Adoaler Forge Team OS."

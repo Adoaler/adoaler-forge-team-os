@@ -1,0 +1,49 @@
+{
+  "name": "adoaler-forge-team-os",
+  "version": "0.1.0",
+  "description": "Engineering Team OS for Codex: project genesis, LTM, MCP tools, task graph, critics, continuation, repair mode, and release governance.",
+  "author": {
+    "name": "Adoaler Forge",
+    "email": "engineering@adoaler.local",
+    "url": "https://adoaler.local"
+  },
+  "homepage": "https://adoaler.local/forge-team-os",
+  "repository": "https://adoaler.local/forge-team-os",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "engineering-team",
+    "mcp",
+    "ltm",
+    "task-graph",
+    "quality-gates",
+    "self-healing"
+  ],
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Adoaler Forge Team OS",
+    "shortDescription": "Turns Codex into a governed engineering team",
+    "longDescription": "Adoaler Forge Team OS coordinates Codex with Project Brain, SQLite long-term memory, MCP tools, task graph compilation, repo world modeling, continuation records, adversarial critics, change management, quality gates, repair-only mode, and release governance.",
+    "developerName": "Adoaler Forge",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://adoaler.local/",
+    "privacyPolicyURL": "https://adoaler.local/privacy",
+    "termsOfServiceURL": "https://adoaler.local/terms",
+    "defaultPrompt": [
+      "Use Adoaler Forge Team OS to build this project from zero.",
+      "Create Project Brain, task graph, quality gates, and continuation records.",
+      "Enter REPAIR_ONLY and fix the failing gates."
+    ],
+    "brandColor": "#165D4D",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg",
+    "screenshots": []
+  }
+}

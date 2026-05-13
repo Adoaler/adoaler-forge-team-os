@@ -1,0 +1,4 @@
+interface:
+  display_name: "Critic Daemon"
+  short_description: "Run pre, inline, file, module, and system critique with approve or reject verdicts."
+  default_prompt: "Use Critic Daemon inside Adoaler Forge Team OS."

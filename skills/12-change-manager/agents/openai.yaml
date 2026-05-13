@@ -1,0 +1,4 @@
+interface:
+  display_name: "Change Manager"
+  short_description: "Turn mid-project changes into change requests, impact analysis, replan, and migration tasks."
+  default_prompt: "Use Change Manager inside Adoaler Forge Team OS."
